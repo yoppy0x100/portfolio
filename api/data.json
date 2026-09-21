@@ -2,7 +2,7 @@
     "project" : [
         {
             "name": "Mojokerto Covid Tracker",
-            "src": "/img/kopit.png",
+            "src": "/portfolio/img/kopit.png",
             "desc": "Proyek pertama saya yang dirancang untuk memantau perkembangan data COVID-19 di wilayah Mojokerto secara real-time. Dibangun menggunakan Vue.js dan PHP Native, proyek ini menjadi eksperimen awal saya dalam mengolah serta mengoptimalkan integrasi API dengan beban data yang besar.",
             "isOnline": false,
             "tech": "Vue.js|PHP Native|REST API",
@@ -16,7 +16,7 @@
         },
         {
             "name": "IG Hunt",
-            "src": ["/img/ig-1.png", "/img/ig-2.png"],
+            "src": ["/portfolio/img/ig-1.png", "/portfolio/img/ig-2.png"],
             "desc": "Alat berbasis antarmuka perintah (command-line) yang terinspirasi dari tools sejenis, namun dirancang bebas iklan. Dibangun menggunakan PHP CLI dan beberapa library pendukung untuk menghadirkan proses yang cepat, ringan, dan tanpa gangguan.",
             "isOnline": false,
             "tech": "PHP CLI|Automation|Libraries",
@@ -30,7 +30,7 @@
         },
         {
             "name": "CGVSeat",
-            "src": "/img/cgvseat-1.png",
+            "src": "/portfolio/img/cgvseat-1.png",
             "desc": "Solusi praktis untuk mengecek ketersediaan kursi bioskop CGV secara cepat agar pengguna tidak kehabisan tiket di jam tayang favorit. Didevelop menggunakan PHP Native dan library ekstraksi data untuk pemantauan kursi yang presisi.",
             "isOnline": false,
             "tech": "PHP Native|Web Utility|Libraries",
@@ -44,7 +44,7 @@
         },
         {
             "name": "TokKit",
-            "src": "/img/tokkit.png",
+            "src": "/portfolio/img/tokkit.png",
             "desc": "Utility tool berbasis JavaScript untuk melakukan lookup profil TikTok, mengunduh video tanpa watermark, dan mengekstrak audio/lagu secara cepat dan efisien langsung dalam satu antarmuka.",
             "isOnline": true,
             "tech": "JavaScript|Media Downloader|Web Tool",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Gacofinder",
-            "src": "/img/gacofinder.png",
+            "src": "/portfolio/img/gacofinder.png",
             "desc": "Aplikasi pencari informasi gerai Mie Gacoan yang memudahkan pengguna menemukan lokasi cabang terdekat, jam operasional, hingga akses barcode dalam satu platform yang responsif dan mudah digunakan.",
             "isOnline": true,
             "tech": "JavaScript / PHP|Location Utility|Web App",
@@ -72,7 +72,7 @@
     "certificate" : [
         {
             "name" : "Coursera Google Data Analyst",
-            "src" : "/img/cert-dataanalyst.jpg",
+            "src" : "/portfolio/img/cert-dataanalyst.jpg",
             "desc" : "Curiosity led me to explore data analytics, learning how to transform data into insights that tell a meaningful story.",
             "created" : 1667692800,
             "end" : null,
