@@ -1,9 +1,9 @@
 [
   {
     "name": "Mojokerto Covid Tracker",
-    "src": "",
-    "desc": "Proyek pertama saya yang dirancang untuk memantau perkembangan data COVID-19 di wilayah Mojokerto secara *real-time*. Dibangun menggunakan **Vue.js** dan **PHP Native**, proyek ini menjadi eksperimen awal saya dalam mengolah serta mengoptimalkan integrasi API dengan beban data yang besar.",
-    "isOnline": "FALSE",
+    "src": "/img/kopit.png",
+    "desc": "Proyek pertama saya yang dirancang untuk memantau perkembangan data COVID-19 di wilayah Mojokerto secara real-time. Dibangun menggunakan Vue.js dan PHP Native, proyek ini menjadi eksperimen awal saya dalam mengolah serta mengoptimalkan integrasi API dengan beban data yang besar.",
+    "isOnline": false,
     "tech": "Vue.js|PHP Native|REST API",
     "created": 1591278693,
     "status": "unPublished",
@@ -11,9 +11,9 @@
   },
   {
     "name": "IG Hunt",
-    "src": "",
-    "desc": "Alat berbasis antarmuka perintah (*command-line*) yang terinspirasi dari *tools* sejenis, namun dirancang bebas iklan. Dibangun menggunakan **PHP CLI** dan beberapa *library* pendukung untuk menghadirkan proses yang cepat, ringan, dan tanpa gangguan.",
-    "isOnline": "FALSE",
+    "src": ["/img/ig-1.png", "/img/ig-2.png"],
+    "desc": "Alat berbasis antarmuka perintah (command-line) yang terinspirasi dari tools sejenis, namun dirancang bebas iklan. Dibangun menggunakan PHP CLI dan beberapa library pendukung untuk menghadirkan proses yang cepat, ringan, dan tanpa gangguan.",
+    "isOnline": false,
     "tech": "PHP CLI|Automation|Libraries",
     "created": 1617371493,
     "status": "unPublished",
@@ -21,9 +21,9 @@
   },
   {
     "name": "CGVSeat",
-    "src": "",
-    "desc": "Solusi praktis untuk mengecek ketersediaan kursi bioskop CGV secara cepat agar pengguna tidak kehabisan tiket di jam tayang favorit. Didevelop menggunakan **PHP Native** dan *library* ekstraksi data untuk pemantauan kursi yang presisi.",
-    "isOnline": "TRUE",
+    "src": "/img/placeholder.png",
+    "desc": "Solusi praktis untuk mengecek ketersediaan kursi bioskop CGV secara cepat agar pengguna tidak kehabisan tiket di jam tayang favorit. Didevelop menggunakan PHP Native dan library ekstraksi data untuk pemantauan kursi yang presisi.",
+    "isOnline": true,
     "tech": "PHP Native|Web Utility|Libraries",
     "created": 1728913893,
     "status": "published",
@@ -31,9 +31,9 @@
   },
   {
     "name": "TokKit",
-    "src": "",
-    "desc": "Utility tool berbasis **JavaScript** untuk melakukan *lookup* profil TikTok, mengunduh video tanpa *watermark*, dan mengekstrak audio/lagu secara cepat dan efisien langsung dalam satu antarmuka.",
-    "isOnline": "TRUE",
+    "src": "/img/tokkit.png",
+    "desc": "Utility tool berbasis JavaScript untuk melakukan lookup profil TikTok, mengunduh video tanpa watermark, dan mengekstrak audio/lagu secara cepat dan efisien langsung dalam satu antarmuka.",
+    "isOnline": true,
     "tech": "JavaScript|Media Downloader|Web Tool",
     "created": 1781099493,
     "status": "published",
@@ -41,12 +41,12 @@
   },
   {
     "name": "Gacofinder",
-    "src": "",
-    "desc": "Aplikasi pencari informasi gerai Mie Gacoan yang memudahkan pengguna menemukan lokasi cabang terdekat, jam operasional, hingga akses *barcode* dalam satu platform yang responsif dan mudah digunakan.",
-    "isOnline": "TRUE",
+    "src": "/img/gacofinder.png",
+    "desc": "Aplikasi pencari informasi gerai Mie Gacoan yang memudahkan pengguna menemukan lokasi cabang terdekat, jam operasional, hingga akses barcode dalam satu platform yang responsif dan mudah digunakan.",
+    "isOnline": true,
     "tech": "JavaScript / PHP|Location Utility|Web App",
     "created": 1781272293,
     "status": "published",
-    "router": "gacoan"
+    "router": "gacofinder"
   }
 ]

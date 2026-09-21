@@ -1,0 +1,126 @@
+{
+    "project" : [
+        {
+            "name": "Mojokerto Covid Tracker",
+            "src": "/img/kopit.png",
+            "desc": "Proyek pertama saya yang dirancang untuk memantau perkembangan data COVID-19 di wilayah Mojokerto secara real-time. Dibangun menggunakan Vue.js dan PHP Native, proyek ini menjadi eksperimen awal saya dalam mengolah serta mengoptimalkan integrasi API dengan beban data yang besar.",
+            "isOnline": false,
+            "tech": "Vue.js|PHP Native|REST API",
+            "created": 1591278693,
+            "status": "unPublished",
+            "router": null,
+            "hasStyle" : {
+                "objectPosition" :"0 0",
+                "objectFit" : "cover"
+            }
+        },
+        {
+            "name": "IG Hunt",
+            "src": ["/img/ig-1.png", "/img/ig-2.png"],
+            "desc": "Alat berbasis antarmuka perintah (command-line) yang terinspirasi dari tools sejenis, namun dirancang bebas iklan. Dibangun menggunakan PHP CLI dan beberapa library pendukung untuk menghadirkan proses yang cepat, ringan, dan tanpa gangguan.",
+            "isOnline": false,
+            "tech": "PHP CLI|Automation|Libraries",
+            "created": 1617371493,
+            "status": "unPublished",
+            "router": null,
+            "hasStyle" : {
+                "objectPosition" :"0 -5%",
+                "objectFit" : "cover"
+            }
+        },
+        {
+            "name": "CGVSeat",
+            "src": "/img/cgvseat-1.png",
+            "desc": "Solusi praktis untuk mengecek ketersediaan kursi bioskop CGV secara cepat agar pengguna tidak kehabisan tiket di jam tayang favorit. Didevelop menggunakan PHP Native dan library ekstraksi data untuk pemantauan kursi yang presisi.",
+            "isOnline": false,
+            "tech": "PHP Native|Web Utility|Libraries",
+            "created": 1728913893,
+            "status": "published",
+            "router": null,
+            "hasStyle" : {
+                "objectPosition" :"30% center",
+                "objectFit" : "cover"
+            }
+        },
+        {
+            "name": "TokKit",
+            "src": "/img/tokkit.png",
+            "desc": "Utility tool berbasis JavaScript untuk melakukan lookup profil TikTok, mengunduh video tanpa watermark, dan mengekstrak audio/lagu secara cepat dan efisien langsung dalam satu antarmuka.",
+            "isOnline": true,
+            "tech": "JavaScript|Media Downloader|Web Tool",
+            "created": 1781099493,
+            "status": "published",
+            "router": "tokkit",
+            "hasStyle" : {
+                "objectFit" : "cover"
+            }
+        },
+        {
+            "name": "Gacofinder",
+            "src": "/img/gacofinder.png",
+            "desc": "Aplikasi pencari informasi gerai Mie Gacoan yang memudahkan pengguna menemukan lokasi cabang terdekat, jam operasional, hingga akses barcode dalam satu platform yang responsif dan mudah digunakan.",
+            "isOnline": true,
+            "tech": "JavaScript / PHP|Location Utility|Web App",
+            "created": 1781272293,
+            "status": "published",
+            "router": "gacofinder",
+            "hasStyle" : {
+                "objectFit" : "cover"
+            }
+        }
+    ],
+    "certificate" : [
+        {
+            "name" : "Coursera Google Data Analyst",
+            "src" : "/img/cert-dataanalyst.jpg",
+            "desc" : "Curiosity led me to explore data analytics, learning how to transform data into insights that tell a meaningful story.",
+            "created" : 1667692800,
+            "end" : null,
+            "owner" : "Digital Talent Scholarship x Google Career Certificates",
+            "tags" : ["#PROA", "#DigitalTalentScholarship"],
+            "hasStyle" : {
+                "objectPosition" : "0 5%",
+                "objectFit" : "cover"
+            }
+        }
+    ], 
+    "experience" : [
+        {
+            "name" : "PT. Surabaya Autocomp Indonesia",
+            "start" : 1667353432,
+            "end" : 1730339032,
+            "position" : "Production Operator",
+            "desc" : "Responsible for the production and assembly of wiring harnesses in accordance with quality standards and company work procedures.",
+            "line-business" : "Wiring Harness",
+            "all-jobs" : [
+                "Melakukan pemotongan, pengupasan, crimping, dan penyambungan kabel sesuai spesifikasi.",
+                "Merakit komponen wiring harness sesuai drawing, work instruction, dan standar produksi.",
+                "Melakukan pemeriksaan kualitas hasil rakitan untuk memastikan tidak terdapat kesalahan pemasangan.",
+                "Mengoperasikan peralatan produksi sesuai prosedur keselamatan kerja.",
+                "Menjaga kebersihan dan kerapian area kerja.",
+                "Melakukan pengecekan material dan melaporkan apabila terdapat ketidaksesuaian.",
+                "Memastikan target produksi dan standar kualitas dapat tercapai."
+            ],
+            "tags" : ["#WiringHarness", "#Manufaktur", "#Produksi" ,"#Assembly"]
+        },
+        {
+            "name" : "PT. Prima Energy Globalino (OS)",
+            "start" : 1581385432,
+            "end" : 1627177432,
+            "position" : "Quality Assurance Operator",
+            "desc" : "Responsible for ensuring that the production process and ceramic products meet the company's quality standards, product specifications, and established procedures.",
+            "line-business" : "Manufacture",
+            "all-jobs" : [
+                "Melakukan inspeksi dan pengawasan kualitas selama proses produksi keramik.",
+                "Memastikan produk sesuai dengan standar spesifikasi, ukuran, warna, motif, dan kualitas permukaan.",
+                "Melakukan pengecekan dan identifikasi terhadap produk yang tidak sesuai standar (NG/reject).",
+                "Melakukan pencatatan dan dokumentasi hasil pemeriksaan kualitas.",
+                "Berkoordinasi dengan tim produksi untuk menangani dan mencegah terjadinya masalah kualitas.",
+                "Melakukan monitoring terhadap penerapan SOP dan standar quality control di area produksi.",
+                "Membantu melakukan analisis penyebab masalah dan tindakan perbaikan untuk meningkatkan kualitas produk.",
+                "Memastikan proses produksi berjalan sesuai standar mutu dan prosedur perusahaan."
+            ],
+            "tags" : ["#QualityAssurance", "#Keramik", "#Manufaktur", "#Produksi"]
+        }
+    ]
+}
